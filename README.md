@@ -57,8 +57,6 @@
 
 ## 🚀 Projects
 
-> Replace these placeholders with your actual project names and repository links.
-
 - **Java Servlet Database Operations** — Java Servlets, JDBC, Oracle Database XE, HTML5 and CSS3, Apache Tomcat 9
 
 ## 📊 GitHub Activity
