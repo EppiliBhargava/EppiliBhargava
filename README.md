@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="Neon Tech Portfolio Banner" src="https://github.com/user-attachments/assets/3e77d60e-499c-4273-ac2c-6d30e7014c6c" />
 # Hi, I'm Eppili Bhargava 👋
 
 ### Software Engineer | Java Backend Development | Full-Stack Development
